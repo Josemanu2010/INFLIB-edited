@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css?family=Istok+Web&display=swap');
+
+section#sec1_index{
+	width: 100%;
+	height: 24em;
+	background: url('../../public/img/libano_img.jpg') no-repeat center;
+	background-attachment: fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-ms-background-size: cover;
+	-o-background-size: cover;
+	background-size: 100%;
+}
+section#sec1_index #sec1_rgba{
+	width: 100%;
+	height: 100%;
+	background: rgba(0, 0, 0, 0.9);
+	display: table;
+}
+section#sec1_index #sec1_rgba h1{
+	margin: 0;
+	text-align: center;
+	display: table-cell;
+	vertical-align: middle;
+	font-family: 'Istok Web', sans-serif;
+	font-size: 4em;
+}
+
+
+
+
+
+
+
+
+section#sec2_index{
+	width: 100%;
+	height: auto;
+	padding: 2em;
+}
+section#sec2_index h2{
+	color: #6D214F;
+}
+section#sec2_index hr{
+	width: 40%;
+	margin: 0 auto;
+}
+section#sec2_index .row img{
+	max-width: 60%;
+}
+section#sec2_index #fin_line_sec2{
+	width: 80%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+section#sec3_index{
+	width: 100%;
+	height: auto;
+	padding: 2em;
+}
+section#sec3_index h3{
+	color: #58B19F;
+}
+section#sec3_index .container .row span{
+	padding: 0;
+	margin: 0;
+	line-height: 0;
+	font-size: 1em;
+}
+section#sec3_index .container .row #father{
+	display: table;
+	height: auto;
+}
+section#sec3_index .container .row #father #son2 span{
+	display: table-cell;
+	vertical-align: middle;
+}
+
+
+
+
+
+
+
+
+
+
+
